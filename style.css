@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+  background: linear-gradient(135deg, #6aa5ff, #7cffcf);
+  color: #0a0d18;
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  padding: 20px;
+}
